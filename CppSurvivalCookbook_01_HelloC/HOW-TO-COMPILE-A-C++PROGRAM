@@ -1,0 +1,11 @@
+================================================================================
+Ubuntu Linux Environment
+================================================================================
+
+FIRST INSTALL g++ !
+
+sudo apt-get install build-essential
+sudo apt-get install g++ 
+
+TODO...
+
