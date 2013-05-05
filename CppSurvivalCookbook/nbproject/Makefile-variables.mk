@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux-x86
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
-CND_ARTIFACT_NAME_Debug=cppsurvivalcookbook_01
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/cppsurvivalcookbook_01
+CND_ARTIFACT_NAME_Debug=cppsurvivalcookbook
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/cppsurvivalcookbook
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Debug=cppsurvivalcookbook01.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/cppsurvivalcookbook01.tar
+CND_PACKAGE_NAME_Debug=cppsurvivalcookbook.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/cppsurvivalcookbook.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux-x86
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
-CND_ARTIFACT_NAME_Release=cppsurvivalcookbook_01
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/cppsurvivalcookbook_01
+CND_ARTIFACT_NAME_Release=cppsurvivalcookbook
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/cppsurvivalcookbook
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Release=cppsurvivalcookbook01.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/cppsurvivalcookbook01.tar
+CND_PACKAGE_NAME_Release=cppsurvivalcookbook.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/cppsurvivalcookbook.tar
 #
 # include compiler specific variables
 #

@@ -12,7 +12,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>main.cpp</itemPath>
+      <itemPath>HelloC.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
@@ -25,6 +25,8 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <itemPath>HOW-TO-COMPILE-A-C++PROGRAM</itemPath>
+    <itemPath>../README.md</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -35,7 +37,11 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      <item path="../README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="HOW-TO-COMPILE-A-C++PROGRAM" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="HelloC.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -57,7 +63,11 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      <item path="../README.md" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="HOW-TO-COMPILE-A-C++PROGRAM" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="HelloC.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
   </confs>

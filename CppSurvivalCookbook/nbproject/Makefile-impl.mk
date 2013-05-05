@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CppSurvivalCookbook_01
+PROJECTNAME=CppSurvivalCookbook
 
 # Active Configuration
 DEFAULTCONF=Debug
