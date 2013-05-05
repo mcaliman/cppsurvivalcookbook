@@ -1,4 +1,4 @@
 cppsurvivalcookbook
 ===================
 
-C++ survival cookbook
+C++ survival cookbook by Massimo Caliman
