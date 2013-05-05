@@ -1,0 +1,4 @@
+cppsurvivalcookbook
+===================
+
+C++ survival cookbook
